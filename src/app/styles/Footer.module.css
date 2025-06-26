@@ -1,0 +1,29 @@
+.footer {
+  background-color: #f5f5f5;
+  color: #374151;
+  border-top: 1px solid #d1d5db;
+  margin-top: 5rem;
+}
+
+.footerContent {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0.5rem 0.5rem; 
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem; 
+  font-size: 0.75rem; 
+}
+
+@media (min-width: 768px) {
+  .footerContent {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.footerBottom {
+  text-align: center;
+  font-size: 0.75rem;
+  padding: 0.5rem 0; 
+  border-top: 1px solid #e5e7eb;
+}

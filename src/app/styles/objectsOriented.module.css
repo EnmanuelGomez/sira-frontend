@@ -1,0 +1,43 @@
+.container {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Espaciado entre los recuadros */
+}
+
+.titulo{
+  text-align: center;
+  padding-top: 20px;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.recuadro {
+  background-color: #fb923c; 
+  color: #1f2937;
+  border-radius: 1rem;
+  padding: 2rem;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  font-size: 1rem;
+  text-align: center;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.recuadro:hover {
+  transform: translateY(-5px);
+}
+
+.icono {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 12px;
+}

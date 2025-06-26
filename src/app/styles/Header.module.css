@@ -1,0 +1,32 @@
+.header {
+    background-color: #0897CD;
+    padding: 32px 16px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+  }
+  
+  .navLinks {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+  }
+  
+  .link {
+    color: white;
+    text-decoration: none;
+  }

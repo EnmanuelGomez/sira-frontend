@@ -1,0 +1,53 @@
+.page {
+  padding: 2rem;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  width: 600px;
+  background-color: #e5e7eb;
+  padding: 1.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.cardLeft {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+  text-align: center;
+  margin-right: 1rem;
+}
+
+.logo {
+  width: 145px;
+  height: 250px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.cardRight {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 2.0rem;
+}

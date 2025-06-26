@@ -1,0 +1,274 @@
+nombre_plan,aseguradora,tipo_cobertura,tiempo_posesion,monto_asegurado,cobertura_medica,cobertura_deuda,gastos_funerarios,ahorro,principal_preocupacion
+Gold Life,Seguros Universal,Mixto,Vitalicia,3000000,Si,No,No,No,Cobertura
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,300000,No,No,No,No,Precio
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,200000,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,300000,No,No,Si,No,Cobertura
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,500000,No,No,Si,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,30000,Si,No,No,No,Cobertura
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,300000,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,30000,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,300000,Si,No,No,No,Precio
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1000000,Si,No,No,No,Servicio al cliente
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,500000,Si,No,No,No,Cobertura
+Vida Crédito,Humano Seguros,Mixto,10 a 20,300000,Si,Si,No,Si,Cobertura
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,200000,No,No,Si,No,Cobertura
+Gold Life,Seguros Universal,Mixto,Vitalicia,2576231,Si,No,No,No,Cobertura
+Gold Life,Seguros Universal,Mixto,Vitalicia,3063207,Si,No,No,No,Precio
+Gold Life,Seguros Universal,Mixto,Vitalicia,1738171,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,3547119,Si,No,No,No,Cobertura
+Gold Life,Seguros Universal,Mixto,Vitalicia,2249895,Si,No,No,No,Facilidad de gestión online
+Gold Life,Seguros Universal,Mixto,Vitalicia,1812502,Si,No,No,No,Precio
+Gold Life,Seguros Universal,Mixto,Vitalicia,1984442,Si,No,No,No,Precio
+Gold Life,Seguros Universal,Mixto,Vitalicia,4006927,Si,No,No,No,Precio
+Gold Life,Seguros Universal,Mixto,Vitalicia,2611396,Si,No,No,No,Facilidad de gestión online
+Gold Life,Seguros Universal,Mixto,Vitalicia,1942875,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,2217785,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,2575522,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,2669198,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,2520002,Si,No,No,No,Precio
+Gold Life,Seguros Universal,Mixto,Vitalicia,3609303,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,3054161,Si,No,No,No,Cobertura
+Gold Life,Seguros Universal,Mixto,Vitalicia,1704663,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,3241281,Si,No,No,No,Servicio al cliente
+Gold Life,Seguros Universal,Mixto,Vitalicia,2286813,Si,No,No,No,Precio
+Gold Life,Seguros Universal,Mixto,Vitalicia,3061639,Si,No,No,No,Servicio al cliente
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,277380,No,No,No,No,Precio
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,245285,No,No,No,No,Precio
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,176891,No,No,No,No,Servicio al cliente
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,155044,No,No,No,No,Cobertura
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,301117,No,No,No,No,Facilidad de gestión online
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,415544,No,No,No,No,Facilidad de gestión online
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,446530,No,No,No,No,Cobertura
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,321231,No,No,No,No,Cobertura
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,395165,No,No,No,No,Servicio al cliente
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,190919,No,No,No,No,Facilidad de gestión online
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,338382,No,No,No,No,Precio
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,154267,No,No,No,No,Precio
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,235418,No,No,No,No,Cobertura
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,393479,No,No,No,No,Cobertura
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,306235,No,No,No,No,Precio
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,330377,No,No,No,No,Facilidad de gestión online
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,354993,No,No,No,No,Facilidad de gestión online
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,168852,No,No,No,No,Precio
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,317857,No,No,No,No,Cobertura
+Accidentes Personales,Seguros Universal,Temporal,1 a 10,265852,No,No,No,No,Cobertura
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,256172,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,123329,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,285290,No,No,Si,No,Precio
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,165537,No,No,Si,No,Precio
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,282915,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,224386,No,No,Si,No,Cobertura
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,217281,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,118807,No,No,Si,No,Cobertura
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,273348,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,106066,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,122451,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,284444,No,No,Si,No,Precio
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,116925,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,177755,No,No,Si,No,Precio
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,164991,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,209266,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,106345,No,No,Si,No,Precio
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,138116,No,No,Si,No,Cobertura
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,282369,No,No,Si,No,Precio
+Últimos Gastos Plus,Seguros Universal,Permanente,Vitalicia,282445,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,412959,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,377244,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,252758,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,298616,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,212015,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,412317,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,354518,No,No,Si,No,Precio
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,153571,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,444192,No,No,Si,No,Precio
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,357760,No,No,Si,No,Precio
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,223904,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,198145,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,385432,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,309140,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,385191,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,332663,No,No,Si,No,Precio
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,405379,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,446370,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,206441,No,No,Si,No,Cobertura
+Últimos Gastos Plus Familiar,Seguros Universal,Permanente,Vitalicia,325063,No,No,Si,No,Precio
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,557489,No,No,Si,No,Precio
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,565768,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,525484,No,No,Si,No,Cobertura
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,602811,No,No,Si,No,Cobertura
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,383880,No,No,Si,No,Precio
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,470035,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,363970,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,567211,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,414412,No,No,Si,No,Cobertura
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,441984,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,712792,No,No,Si,No,Cobertura
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,503623,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,345709,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,271379,No,No,Si,No,Servicio al cliente
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,335170,No,No,Si,No,Cobertura
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,262549,No,No,Si,No,Precio
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,501903,No,No,Si,No,Cobertura
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,320151,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,291083,No,No,Si,No,Precio
+Últimos Gastos Plus Premium,Seguros Universal,Permanente,Vitalicia,380734,No,No,Si,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,35246,Si,No,No,No,Servicio al cliente
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,16836,Si,No,No,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,35431,Si,No,No,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,18543,Si,No,No,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,17431,Si,No,No,No,Precio
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,42155,Si,No,No,No,Servicio al cliente
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,23901,Si,No,No,No,Precio
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,36197,Si,No,No,No,Servicio al cliente
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,35399,Si,No,No,No,Servicio al cliente
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,20483,Si,No,No,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,34313,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,44027,Si,No,No,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,35637,Si,No,No,No,Servicio al cliente
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,25254,Si,No,No,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,36638,Si,No,No,No,Servicio al cliente
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,17332,Si,No,No,No,Precio
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,39552,Si,No,No,No,Cobertura
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,18821,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,21213,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Colectivo,La Colonial,Permanente,Vitalicia,28134,Si,No,No,No,Servicio al cliente
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,177316,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,186292,Si,No,No,No,Cobertura
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,405461,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,423187,Si,No,No,No,Servicio al cliente
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,188872,Si,No,No,No,Servicio al cliente
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,251048,Si,No,No,No,Precio
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,306447,Si,No,No,No,Precio
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,357176,Si,No,No,No,Precio
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,363061,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,271490,Si,No,No,No,Precio
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,270080,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,325499,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,345430,Si,No,No,No,Cobertura
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,427629,Si,No,No,No,Precio
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,375863,Si,No,No,No,Precio
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,250038,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,230981,Si,No,No,No,Cobertura
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,351805,Si,No,No,No,Servicio al cliente
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,294954,Si,No,No,No,Precio
+Seguro de Vida Megalife,La Colonial,Temporal,10 a 20,251286,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,43711,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,40553,Si,No,No,No,Cobertura
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,44413,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,35532,Si,No,No,No,Cobertura
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,38091,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,42289,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,20170,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,32716,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,25400,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,24821,Si,No,No,No,Servicio al cliente
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,29887,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,42774,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,44790,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,39327,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,17369,Si,No,No,No,Precio
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,37042,Si,No,No,No,Servicio al cliente
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,33258,Si,No,No,No,Facilidad de gestión online
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,15752,Si,No,No,No,Servicio al cliente
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,43839,Si,No,No,No,Servicio al cliente
+Seguro de Vida Individual,La Colonial,Mixto,10 a 20,27695,Si,No,No,No,Facilidad de gestión online
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,326754,Si,No,No,No,Precio
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,275699,Si,No,No,No,Facilidad de gestión online
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,416447,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,210781,Si,No,No,No,Facilidad de gestión online
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,150294,Si,No,No,No,Cobertura
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,237856,Si,No,No,No,Cobertura
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,341183,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,356440,Si,No,No,No,Precio
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,297901,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,179807,Si,No,No,No,Facilidad de gestión online
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,310661,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,447275,Si,No,No,No,Precio
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,269410,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,345713,Si,No,No,No,Facilidad de gestión online
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,369689,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,150376,Si,No,No,No,Facilidad de gestión online
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,188516,Si,No,No,No,Servicio al cliente
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,242943,Si,No,No,No,Facilidad de gestión online
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,365134,Si,No,No,No,Precio
+Mi Vida Protegida,Humano Seguros,Mixto,1 a 10,280900,Si,No,No,No,Servicio al cliente
+Vida Escolar,Humano Seguros,Temporal,10 a 20,805989,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1303694,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1032223,Si,No,No,No,Precio
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1353036,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1280238,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,833806,Si,No,No,No,Facilidad de gestión online
+Vida Escolar,Humano Seguros,Temporal,10 a 20,769470,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1413655,Si,No,No,No,Facilidad de gestión online
+Vida Escolar,Humano Seguros,Temporal,10 a 20,884378,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1315465,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1482264,Si,No,No,No,Facilidad de gestión online
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1463866,Si,No,No,No,Facilidad de gestión online
+Vida Escolar,Humano Seguros,Temporal,10 a 20,725981,Si,No,No,No,Servicio al cliente
+Vida Escolar,Humano Seguros,Temporal,10 a 20,817546,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1143432,Si,No,No,No,Precio
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1014675,Si,No,No,No,Cobertura
+Vida Escolar,Humano Seguros,Temporal,10 a 20,606618,Si,No,No,No,Facilidad de gestión online
+Vida Escolar,Humano Seguros,Temporal,10 a 20,833940,Si,No,No,No,Precio
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1386890,Si,No,No,No,Facilidad de gestión online
+Vida Escolar,Humano Seguros,Temporal,10 a 20,1072833,Si,No,No,No,Facilidad de gestión online
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,746733,Si,No,No,No,Precio
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,673229,Si,No,No,No,Precio
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,460635,Si,No,No,No,Cobertura
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,587596,Si,No,No,No,Precio
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,382339,Si,No,No,No,Servicio al cliente
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,364723,Si,No,No,No,Servicio al cliente
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,404092,Si,No,No,No,Cobertura
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,473054,Si,No,No,No,Cobertura
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,461582,Si,No,No,No,Precio
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,426032,Si,No,No,No,Servicio al cliente
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,312224,Si,No,No,No,Facilidad de gestión online
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,431385,Si,No,No,No,Facilidad de gestión online
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,321311,Si,No,No,No,Servicio al cliente
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,425449,Si,No,No,No,Precio
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,554847,Si,No,No,No,Cobertura
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,386277,Si,No,No,No,Servicio al cliente
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,532982,Si,No,No,No,Facilidad de gestión online
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,276430,Si,No,No,No,Servicio al cliente
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,583962,Si,No,No,No,Facilidad de gestión online
+Vida Colectivo,Humano Seguros,Permanente,Vitalicia,366901,Si,No,No,No,Servicio al cliente
+Vida Crédito,Humano Seguros,Mixto,10 a 20,236545,Si,Si,No,Si,Facilidad de gestión online
+Vida Crédito,Humano Seguros,Mixto,10 a 20,323024,Si,Si,No,Si,Precio
+Vida Crédito,Humano Seguros,Mixto,10 a 20,418877,Si,Si,No,Si,Servicio al cliente
+Vida Crédito,Humano Seguros,Mixto,10 a 20,245652,Si,Si,No,Si,Servicio al cliente
+Vida Crédito,Humano Seguros,Mixto,10 a 20,271580,Si,Si,No,Si,Precio
+Vida Crédito,Humano Seguros,Mixto,10 a 20,230888,Si,Si,No,Si,Servicio al cliente
+Vida Crédito,Humano Seguros,Mixto,10 a 20,184169,Si,Si,No,Si,Precio
+Vida Crédito,Humano Seguros,Mixto,10 a 20,356250,Si,Si,No,Si,Facilidad de gestión online
+Vida Crédito,Humano Seguros,Mixto,10 a 20,420844,Si,Si,No,Si,Precio
+Vida Crédito,Humano Seguros,Mixto,10 a 20,163673,Si,Si,No,Si,Servicio al cliente
+Vida Crédito,Humano Seguros,Mixto,10 a 20,292584,Si,Si,No,Si,Facilidad de gestión online
+Vida Crédito,Humano Seguros,Mixto,10 a 20,396091,Si,Si,No,Si,Cobertura
+Vida Crédito,Humano Seguros,Mixto,10 a 20,253776,Si,Si,No,Si,Facilidad de gestión online
+Vida Crédito,Humano Seguros,Mixto,10 a 20,379613,Si,Si,No,Si,Cobertura
+Vida Crédito,Humano Seguros,Mixto,10 a 20,281156,Si,Si,No,Si,Servicio al cliente
+Vida Crédito,Humano Seguros,Mixto,10 a 20,336660,Si,Si,No,Si,Precio
+Vida Crédito,Humano Seguros,Mixto,10 a 20,277359,Si,Si,No,Si,Cobertura
+Vida Crédito,Humano Seguros,Mixto,10 a 20,352332,Si,Si,No,Si,Servicio al cliente
+Vida Crédito,Humano Seguros,Mixto,10 a 20,281992,Si,Si,No,Si,Facilidad de gestión online
+Vida Crédito,Humano Seguros,Mixto,10 a 20,363011,Si,Si,No,Si,Cobertura
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,153290,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,119668,No,No,Si,No,Precio
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,193081,No,No,Si,No,Servicio al cliente
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,229152,No,No,Si,No,Precio
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,219424,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,182435,No,No,Si,No,Precio
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,285549,No,No,Si,No,Servicio al cliente
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,292899,No,No,Si,No,Cobertura
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,273226,No,No,Si,No,Servicio al cliente
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,274167,No,No,Si,No,Cobertura
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,246193,No,No,Si,No,Precio
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,108959,No,No,Si,No,Precio
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,245752,No,No,Si,No,Precio
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,143550,No,No,Si,No,Servicio al cliente
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,118675,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,275373,No,No,Si,No,Cobertura
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,114823,No,No,Si,No,Servicio al cliente
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,120290,No,No,Si,No,Servicio al cliente
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,250219,No,No,Si,No,Facilidad de gestión online
+Últimos Gastos,Humano Seguros,Temporal,1 a 10,227263,No,No,Si,No,Servicio al cliente

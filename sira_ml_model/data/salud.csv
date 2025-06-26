@@ -1,0 +1,323 @@
+nombre_plan,prima,nivel_de_cobertura,deductible,satisfaccion_del_cliente,condiciones_medicas_previas,aseguradora,principal_preocupacion
+Plan Vital,20300,Básico,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Vital,17900,Básico,No,Satisfactorio,No,Seguros Universal,Cobertura
+Plan Vital,18999,Básico,No,Satisfactorio,No,Seguros Universal,Cobertura
+Plan Vital,17270,Básico,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Vital,20500,Básico,No,Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Vital,21500,Básico,No,Satisfactorio,No,Seguros Universal,Facilidad de gestión online
+Plan Vital,18000,Básico,No,Satisfactorio,No,Seguros Universal,Cobertura
+Plan Vital,10000,Básico,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Vital,16000,Básico,No,Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Vital,19000,Básico,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Vital,30000,Básico,No,Muy Satisfactorio,No,Seguros Universal,Cobertura
+Plan Vital,15000,Medio,No,Muy Satisfactorio,No,Seguros Universal,Precio
+Plan Vital,15000,Básico,No,Muy Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Alpha,5118,Medio,No,Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Alpha,3000,Medio,No,Satisfactorio,No,Seguros Universal,Facilidad de gestión online
+Plan Alpha,4500,Medio,No,Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Alpha,13000,Medio,No,Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Alpha,15500,Medio,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Alpha,16500,Medio,No,Satisfactorio,No,Seguros Universal,Cobertura
+Plan Alpha,37690,Medio,No,Satisfactorio,No,Seguros Universal,Cobertura
+Plan Alpha,25500,Medio,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Alpha,46630,Medio,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Alpha,20330,Medio,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Alpha,25000,Medio,No,Muy Satisfactorio,No,Seguros Universal,Cobertura
+Plan Alpha,25500,Básico,No,Muy Satisfactorio,No,Seguros Universal,Cobertura
+Plan Alpha,30000,Básico,No,Muy Satisfactorio,No,Seguros Universal,Precio
+Plan Absoluto,26000,Medio,No,Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Absoluto,30365,Medio,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Absoluto,5300,Medio,No,Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Absoluto,25465,Medio,No,Satisfactorio,No,Seguros Universal,Cobertura
+Plan Absoluto,17985,Medio,No,Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Absoluto,36073,Medio,No,Satisfactorio,No,Seguros Universal,Facilidad de gestión online
+Plan Absoluto,16855,Medio,No,Satisfactorio,No,Seguros Universal,Precio
+Plan Absoluto,16466,Medio,No,Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Absoluto,16080,Medio,No,Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Absoluto,13931,Medio,No,Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Absoluto,30000,Básico,No,Muy Satisfactorio,No,Seguros Universal,Cobertura
+Plan Absoluto,30000,Medio,No,Neutro,No,Seguros Universal,Red de hospitales
+Plan Absoluto,30000,Medio,No,Muy Satisfactorio,No,Seguros Universal,Cobertura
+Plan Exclusivo,16440,Completo,No,Muy Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Exclusivo,16845,Completo,No,Muy Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Exclusivo,10905,Completo,No,Muy Satisfactorio,No,Seguros Universal,Facilidad de gestión online
+Plan Exclusivo,16791,Completo,No,Muy Satisfactorio,No,Seguros Universal,Facilidad de gestión online
+Plan Exclusivo,15328,Completo,No,Muy Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Exclusivo,11534,Completo,No,Muy Satisfactorio,No,Seguros Universal,Cobertura
+Plan Exclusivo,12479,Completo,No,Muy Satisfactorio,No,Seguros Universal,Facilidad de gestión online
+Plan Exclusivo,6716,Completo,No,Muy Satisfactorio,No,Seguros Universal,Servicio al cliente
+Plan Exclusivo,17069,Completo,No,Muy Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Exclusivo,17268,Completo,No,Muy Satisfactorio,No,Seguros Universal,Precio
+Plan Exclusivo,60000,Completo,No,Satisfactorio,No,Seguros Universal,Cobertura
+Plan Exclusivo,6000,Completo,No,Muy Satisfactorio,No,Seguros Universal,Cobertura
+Plan Exclusivo,65000,Medio,No,Muy Satisfactorio,No,Seguros Universal,Red de hospitales
+Plan Exclusivo Plus,20463,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Precio
+Plan Exclusivo Plus,16717,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Precio
+Plan Exclusivo Plus,10955,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan Absoluto,18370,Completo,Sí,Muy Satisfactorio,No,Seguros Universal,Facilidad de gestión online
+Plan Exclusivo Plus,40485,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Facilidad de gestión online
+Plan Exclusivo Plus,28073,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan Exclusivo Plus,10069,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Precio
+Plan Exclusivo Plus,20894,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Red de hospitales
+Plan Exclusivo Plus,18361,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Red de hospitales
+Plan Exclusivo Plus,20920,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan GoldMed Plus,12099,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Servicio al cliente
+Plan GoldMed Plus,19548,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Facilidad de gestión online
+Plan GoldMed Plus,29022,Completo,Sí,Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan GoldMed Plus,29464,Medio,Sí,Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan GoldMed Plus,25548,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan GoldMed Plus,14049,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Facilidad de gestión online
+Plan GoldMed Plus,28415,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Precio
+Plan GoldMed Plus,25211,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan GoldMed Plus,16479,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Servicio al cliente
+Plan GoldMed Plus,20040,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan Aetna,32000,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Red de hospitales
+Plan Aetna,28665,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Servicio al cliente
+Plan Aetna,36999,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Facilidad de gestión online
+Plan Aetna,48500,Completo,Sí,Satisfactorio,Sí,La Colonial,Cobertura
+Plan Aetna,16755,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Cobertura
+Plan Aetna,5622,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Cobertura
+Plan Aetna,6138,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Cobertura
+Plan Aetna,5227,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Red de hospitales
+Plan Aetna,4812,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Red de hospitales
+Plan Aetna,6607,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Servicio al cliente
+Plan Relax,5708,Medio,No,Satisfactorio,No,La Colonial,Red de hospitales
+Plan Relax,5665,Medio,No,Satisfactorio,No,La Colonial,Cobertura
+Plan Relax,5254,Medio,No,Muy Satisfactorio,No,La Colonial,Red de hospitales
+Plan Relax,3276,Medio,No,Satisfactorio,No,La Colonial,Red de hospitales
+Plan Relax,4105,Medio,No,Satisfactorio,No,La Colonial,Red de hospitales
+Plan Relax,4489,Medio,No,Satisfactorio,No,La Colonial,Cobertura
+Plan Relax,4659,Medio,No,Satisfactorio,No,La Colonial,Facilidad de gestión online
+Plan Relax,3303,Medio,No,Satisfactorio,No,La Colonial,Precio
+Plan Relax,4718,Medio,No,Satisfactorio,No,La Colonial,Cobertura
+Plan Relax,4793,Medio,No,Satisfactorio,No,La Colonial,Cobertura
+Relax Plus Colectivo,9678,Completo,No,Neutro,No,La Colonial,Precio
+Relax Plus Colectivo,5029,Completo,No,Neutro,No,La Colonial,Cobertura
+Relax Plus Colectivo,6466,Completo,No,Neutro,No,La Colonial,Red de hospitales
+Relax Plus Colectivo,7554,Completo,No,Neutro,No,La Colonial,Facilidad de gestión online
+Relax Plus Colectivo,6831,Completo,No,Neutro,No,La Colonial,Red de hospitales
+Relax Plus Colectivo,9410,Completo,No,Neutro,No,La Colonial,Servicio al cliente
+Relax Plus Colectivo,8398,Completo,No,Neutro,No,La Colonial,Servicio al cliente
+Relax Plus Colectivo,10251,Completo,No,Neutro,No,La Colonial,Servicio al cliente
+Relax Plus Colectivo,8900,Completo,No,Neutro,No,La Colonial,Red de hospitales
+Relax Plus Colectivo,4849,Completo,No,Neutro,No,La Colonial,Precio
+Enfermedades Graves,17869,Completo,No,Satisfactorio,Sí,La Colonial,Red de hospitales
+Enfermedades Graves,16047,Completo,No,Satisfactorio,Sí,La Colonial,Cobertura
+Enfermedades Graves,17654,Completo,No,Satisfactorio,Sí,La Colonial,Facilidad de gestión online
+Enfermedades Graves,12595,Completo,No,Satisfactorio,Sí,La Colonial,Cobertura
+Enfermedades Graves,13925,Completo,No,Satisfactorio,Sí,La Colonial,Red de hospitales
+Enfermedades Graves,10887,Completo,No,Satisfactorio,Sí,La Colonial,Red de hospitales
+Enfermedades Graves,12640,Completo,No,Satisfactorio,Sí,La Colonial,Red de hospitales
+Enfermedades Graves,14167,Completo,No,Satisfactorio,Sí,La Colonial,Servicio al cliente
+Enfermedades Graves,9161,Completo,No,Satisfactorio,Sí,La Colonial,Facilidad de gestión online
+Enfermedades Graves,12406,Completo,No,Satisfactorio,Sí,La Colonial,Precio
+Mi Salud Platinum,7654,Completo,No,Satisfactorio,Sí,Humano Seguros,Red de hospitales
+Mi Salud Platinum,10996,Completo,No,Satisfactorio,Sí,Humano Seguros,Cobertura
+Mi Salud Platinum,9287,Completo,No,Satisfactorio,Sí,Humano Seguros,Facilidad de gestión online
+Mi Salud Platinum,10815,Completo,No,Satisfactorio,Sí,Humano Seguros,Precio
+Mi Salud Platinum,8496,Completo,No,Satisfactorio,Sí,Humano Seguros,Facilidad de gestión online
+Mi Salud Platinum,11376,Completo,No,Satisfactorio,Sí,Humano Seguros,Servicio al cliente
+Mi Salud Platinum,11193,Completo,No,Satisfactorio,Sí,Humano Seguros,Red de hospitales
+Mi Salud Platinum,13521,Completo,No,Satisfactorio,Sí,Humano Seguros,Servicio al cliente
+Mi Salud Platinum,8996,Completo,No,Satisfactorio,Sí,Humano Seguros,Precio
+Mi Salud Platinum,15061,Completo,No,Satisfactorio,Sí,Humano Seguros,Facilidad de gestión online
+Mi Salud Prime,12836,Completo,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Prime,12896,Completo,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Prime,7956,Completo,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Prime,12527,Completo,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Prime,5030,Completo,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Prime,11791,Completo,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Prime,11987,Completo,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Prime,8024,Completo,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Prime,6419,Completo,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Prime,14974,Completo,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Max,9700,Completo,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Max,6199,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Max,7050,Completo,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Max,6438,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Max,10428,Completo,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Max,5839,Completo,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Max,8872,Completo,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Max,4900,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Max,5013,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Max,7355,Completo,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Royal,5697,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Royal,5287,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Royal,3972,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Royal,4489,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Royal,2986,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Royal,4826,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Royal,3920,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Royal,5568,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Royal,3900,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Royal,4371,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Superior,5955,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Superior,4298,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Superior,4464,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Superior,4900,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Superior,3876,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Superior,3760,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Superior,3585,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Superior,4355,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Superior,5597,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Superior,5643,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Esencial Plus,3269,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Esencial Plus,2773,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Esencial Plus,2055,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Esencial Plus,2745,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Esencial Plus,2218,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Esencial Plus,3040,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Esencial Plus,2822,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Esencial Plus,2480,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Esencial Plus,2022,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Esencial Plus,2152,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Classic,7691,Completo,Sí,Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Classic,5887,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Classic,5083,Completo,Sí,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Classic,5271,Completo,Sí,Satisfactorio,No,Humano Seguros,Precio
+Global Health Classic,6054,Completo,Sí,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Classic,5528,Completo,Sí,Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Classic,5043,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Classic,5443,Completo,Sí,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Classic,7296,Completo,Sí,Satisfactorio,No,Humano Seguros,Precio
+Global Health Classic,4139,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Executive,40309,Completo,Sí,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Executive,30717,Completo,Sí,Satisfactorio,No,Humano Seguros,Precio
+Global Health Executive,29361,Completo,Sí,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Executive,35031,Completo,Sí,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Executive,27905,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Executive,25525,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Executive,35736,Completo,Sí,Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Executive,41403,Completo,Sí,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Executive,46146,Completo,Sí,Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Executive,32944,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Premium,51100,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Precio
+Global Health Premium,29905,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Premium,34783,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Precio
+Global Health Premium,25737,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Premium,33741,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Premium,36371,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Premium,49325,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Premium,20110,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Premium,23817,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Precio
+Global Health Premium,48236,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Advance,58520,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Advance,35626,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Advance,57326,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Advance,47401,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Precio
+Global Health Advance,55923,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Advance,25018,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Advance,32135,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Advance,42723,Completo,Sí,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Advance,20267,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Advance,42831,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health University,7198,Medio,Sí,Neutro,No,Humano Seguros,Red de hospitales
+Global Health University,4588,Medio,Sí,Neutro,No,Humano Seguros,Facilidad de gestión online
+Global Health University,4738,Medio,Sí,Neutro,No,Humano Seguros,Facilidad de gestión online
+Global Health University,9981,Medio,Sí,Neutro,No,Humano Seguros,Red de hospitales
+Global Health University,4335,Medio,Sí,Neutro,No,Humano Seguros,Servicio al cliente
+Global Health University,6304,Medio,Sí,Neutro,No,Humano Seguros,Facilidad de gestión online
+Global Health University,9388,Medio,Sí,Neutro,No,Humano Seguros,Red de hospitales
+Global Health University,5663,Medio,Sí,Neutro,No,Humano Seguros,Servicio al cliente
+Global Health University,5106,Medio,Sí,Neutro,No,Humano Seguros,Cobertura
+Global Health University,4007,Medio,Sí,Neutro,No,Humano Seguros,Servicio al cliente
+Global Health Master Plus,7228,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Master Plus,5551,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Master Plus,4893,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Master Plus,8357,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Global Health Master Plus,7205,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Master Plus,7243,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Master Plus,5153,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Master Plus,7569,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Master Plus,4832,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Master Plus,4638,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Plan Exclusivo Plus,8976,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Servicio al cliente
+Plan Exclusivo Plus,10313,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan Exclusivo Plus,19855,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Red de hospitales
+Plan Exclusivo Plus,11448,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan Exclusivo Plus,12059,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Precio
+Plan GoldMed Plus,23176,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Precio
+Plan GoldMed Plus,21276,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Facilidad de gestión online
+Plan GoldMed Plus,26522,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Facilidad de gestión online
+Plan GoldMed Plus,21156,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan GoldMed Plus,22713,Completo,Sí,Muy Satisfactorio,Sí,Seguros Universal,Cobertura
+Plan Aetna,6410,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Servicio al cliente
+Plan Aetna,5360,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Servicio al cliente
+Plan Aetna,6764,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Servicio al cliente
+Plan Aetna,7294,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Red de hospitales
+Plan Aetna,4930,Completo,Sí,Muy Satisfactorio,Sí,La Colonial,Cobertura
+Plan Relax,3435,Medio,No,Satisfactorio,No,La Colonial,Red de hospitales
+Plan Relax,3799,Medio,No,Satisfactorio,No,La Colonial,Cobertura
+Plan Relax,2649,Medio,No,Satisfactorio,No,La Colonial,Facilidad de gestión online
+Plan Relax,4909,Medio,No,Satisfactorio,No,La Colonial,Cobertura
+Plan Relax,6021,Medio,No,Satisfactorio,No,La Colonial,Red de hospitales
+Relax Plus Colectivo,7254,Completo,No,Neutro,No,La Colonial,Facilidad de gestión online
+Relax Plus Colectivo,9792,Completo,No,Neutro,No,La Colonial,Facilidad de gestión online
+Relax Plus Colectivo,9230,Completo,No,Neutro,No,La Colonial,Red de hospitales
+Relax Plus Colectivo,9586,Completo,No,Neutro,No,La Colonial,Cobertura
+Relax Plus Colectivo,7840,Completo,No,Neutro,No,La Colonial,Precio
+Enfermedades Graves,13825,Completo,No,Satisfactorio,Sí,La Colonial,Precio
+Enfermedades Graves,8358,Completo,No,Satisfactorio,Sí,La Colonial,Facilidad de gestión online
+Enfermedades Graves,10034,Completo,No,Satisfactorio,Sí,La Colonial,Red de hospitales
+Enfermedades Graves,7648,Completo,No,Satisfactorio,Sí,La Colonial,Cobertura
+Enfermedades Graves,8085,Completo,No,Satisfactorio,Sí,La Colonial,Servicio al cliente
+Mi Salud Platinum,9340,Completo,No,Satisfactorio,Sí,Humano Seguros,Cobertura
+Mi Salud Platinum,12869,Completo,No,Satisfactorio,Sí,Humano Seguros,Precio
+Mi Salud Platinum,14338,Completo,No,Satisfactorio,Sí,Humano Seguros,Red de hospitales
+Mi Salud Platinum,16248,Completo,No,Satisfactorio,Sí,Humano Seguros,Precio
+Mi Salud Platinum,9500,Completo,No,Satisfactorio,Sí,Humano Seguros,Cobertura
+Mi Salud Prime,6661,Completo,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Prime,6097,Completo,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Prime,7182,Completo,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Prime,14264,Completo,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Prime,11621,Completo,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Max,10785,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Max,9533,Completo,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Max,4235,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Max,8625,Completo,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Max,10668,Completo,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Royal,3966,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Royal,4164,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Royal,4999,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Royal,5981,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Royal,6100,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Superior,3980,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Superior,2658,Medio,No,Satisfactorio,No,Humano Seguros,Precio
+Mi Salud Superior,4650,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Superior,3564,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Superior,3707,Medio,No,Satisfactorio,No,Humano Seguros,Red de hospitales
+Mi Salud Esencial Plus,1659,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Esencial Plus,2869,Medio,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Mi Salud Esencial Plus,2975,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Mi Salud Esencial Plus,3345,Medio,No,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Mi Salud Esencial Plus,3494,Medio,No,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Classic,10171,Completo,Sí,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Classic,10242,Completo,Sí,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Classic,7458,Completo,Sí,Satisfactorio,No,Humano Seguros,Precio
+Global Health Classic,7734,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Classic,4308,Completo,Sí,Satisfactorio,No,Humano Seguros,Precio
+Global Health Executive,30193,Completo,Sí,Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Executive,48525,Completo,Sí,Satisfactorio,No,Humano Seguros,Precio
+Global Health Executive,28932,Completo,Sí,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Executive,22545,Completo,Sí,Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Executive,34475,Completo,Sí,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Premium,32406,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Premium,35610,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Premium,42073,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Premium,34027,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Premium,48772,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Precio
+Global Health Advance,26030,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Facilidad de gestión online
+Global Health Advance,47471,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Advance,20588,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Advance,57512,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Red de hospitales
+Global Health Advance,48932,Completo,Sí,Muy Satisfactorio,No,Humano Seguros,Precio
+Global Health University,4061,Completo,Sí,Neutro,No,Humano Seguros,Servicio al cliente
+Global Health University,5973,Completo,Sí,Neutro,No,Humano Seguros,Cobertura
+Global Health University,6819,Completo,Sí,Neutro,No,Humano Seguros,Servicio al cliente
+Global Health University,5116,Completo,Sí,Neutro,No,Humano Seguros,Cobertura
+Global Health University,7040,Completo,Sí,Neutro,No,Humano Seguros,Cobertura
+Global Health Master Plus,8055,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Master Plus,6724,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Master Plus,4265,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
+Global Health Master Plus,4329,Completo,No,Satisfactorio,No,Humano Seguros,Cobertura
+Global Health Master Plus,6266,Completo,No,Satisfactorio,No,Humano Seguros,Servicio al cliente
