@@ -7,7 +7,7 @@ import { useEffect } from "react";
 import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { procesarRecomendacionVivienda } from "@/app/api/Controllers/viviendaController";
 import { obtenerDetallePlanObj, PlanDetalle } from "@/app/api/Queries/getPlanDetalleObj";
-import { HomeInsuranceFormData } from "@/app/models/FormData";
+import { HomeInsuranceFormData } from "@/app/Models/FormData";
 import { validateHousingForm } from "@/app/utils/validacionesForms";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";

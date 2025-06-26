@@ -6,7 +6,7 @@ import { guardarFormulario } from "@/app/api/Controllers/logFormSubmission";
 import { procesarRecomendacionVida } from "@/app/api/Controllers/vidaController";
 import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { validateLifeForm } from "@/app/utils/validacionesForms";
-import { LifeFormData } from "@/app/models/FormData";
+import { LifeFormData } from "@/app/Models/FormData";
 import { obtenerDetallePlan, PlanDetalle } from "@/app/api/Queries/getPlanDetalle";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";

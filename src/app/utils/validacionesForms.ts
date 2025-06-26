@@ -1,4 +1,4 @@
-import { HealthFormData, VehicleFormData, HomeInsuranceFormData, TravelFormData, LifeFormData } from "@/app/models/FormData";
+import { HealthFormData, VehicleFormData, HomeInsuranceFormData, TravelFormData, LifeFormData } from "@/app/Models/FormData";
 
 export const validateHealthForm = (formData: HealthFormData): { [key: string]: string } => {
   const errors: { [key: string]: string } = {};

@@ -8,7 +8,7 @@ import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { calcularMontoPorFrecuencia } from "@/app/utils/calculosFinancieros";
 import { obtenerCatalogoURL } from "@/app/utils/obtenerCatalogoURL";
 import { validateHealthForm } from "@/app/utils/validacionesForms";
-import { HealthFormData } from "@/app/models/FormData";
+import { HealthFormData } from "@/app/Models/FormData";
 import { obtenerDetallePlan, PlanDetalle } from "@/app/api/Queries/getPlanDetalle";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";

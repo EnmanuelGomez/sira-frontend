@@ -10,7 +10,7 @@ import { obtenerDetallePlanObj, PlanDetalle } from "@/app/api/Queries/getPlanDet
 import { calcularMontoPorFrecuencia } from "@/app/utils/calculosFinancieros";
 import { generarAnios } from "@/app/utils/generarAnios";
 import { calcularPrimaConDeducible } from "@/app/utils/ajustesDeducible";
-import { VehicleFormData } from "@/app/models/FormData";
+import { VehicleFormData } from "@/app/Models/FormData";
 import { validateVehicleForm } from "@/app/utils/validacionesForms";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";

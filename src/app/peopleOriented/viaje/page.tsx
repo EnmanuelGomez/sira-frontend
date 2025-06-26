@@ -6,7 +6,7 @@ import { guardarFormulario } from "@/app/api/Controllers/logFormSubmission";
 import { procesarRecomendacionViaje } from "@/app/api/Controllers/viajeController";
 import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { validateTravelForm } from "@/app/utils/validacionesForms";
-import { TravelFormData } from "@/app/models/FormData";
+import { TravelFormData } from "@/app/Models/FormData";
 import { obtenerDetallePlan, PlanDetalle } from "@/app/api/Queries/getPlanDetalle";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";
