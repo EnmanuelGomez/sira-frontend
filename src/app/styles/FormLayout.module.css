@@ -186,3 +186,35 @@
   background-color: #d1d5db;
   cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+    padding: 1rem; /* Menos espacio para móviles */
+  }
+
+  .leftColumn,
+  .rightColumn {
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .formTitle,
+  .rightTitle {
+    font-size: 1.25rem;
+    text-align: center;
+  }
+
+  .cardsContainer {
+    flex-direction: column;
+  }
+
+  .cardRow {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .card {
+    width: 100%;
+  }
+}
