@@ -1,8 +1,15 @@
+import { useEffect } from "react";
 import Image from "next/image";
 import "./styles/homePage.css"; 
 import Footer from "./components/Footer";
 
 export default function HomePage() {
+
+  useEffect(() => {
+    // Ping al backend para "despertarlo"
+    fetch(`${process.env.NEXT_PUBLIC_API_URL}/ping`).catch(() => {});
+  }, []);
+
   return (
     <div className="container">
       {/* Header */}
