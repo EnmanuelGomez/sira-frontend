@@ -1,7 +1,16 @@
-import { SaludFormPayload, VehiculoFormPayload, ViajeFormPayload, VidaFormPayload, ViviendaFormPayload } from "../Types/insurance_types";
+import {
+  SaludFormPayload,
+  VehiculoFormPayload,
+  ViajeFormPayload,
+  VidaFormPayload,
+  ViviendaFormPayload,
+} from "../Types/insurance_types";
+
+// 👇 Esto tomará la URL desde el entorno (ideal para Vercel)
+const API_BASE_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
 
 export async function recomendarSalud(data: SaludFormPayload) {
-  const response = await fetch("http://localhost:8000/recomendar/salud", {  
+  const response = await fetch(`${API_BASE_URL}/recomendar/salud`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(data),
@@ -13,7 +22,7 @@ export async function recomendarSalud(data: SaludFormPayload) {
 }
 
 export async function recomendarVehiculo(data: VehiculoFormPayload) {
-  const response = await fetch("http://localhost:8000/recomendar/vehiculo", {  
+  const response = await fetch(`${API_BASE_URL}/recomendar/vehiculo`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(data),
@@ -25,7 +34,7 @@ export async function recomendarVehiculo(data: VehiculoFormPayload) {
 }
 
 export async function recomendarViaje(data: ViajeFormPayload) {
-  const response = await fetch("http://localhost:8000/recomendar/viaje", {  
+  const response = await fetch(`${API_BASE_URL}/recomendar/viaje`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(data),
@@ -37,7 +46,7 @@ export async function recomendarViaje(data: ViajeFormPayload) {
 }
 
 export async function recomendarVida(data: VidaFormPayload) {
-  const response = await fetch("http://localhost:8000/recomendar/vida", {  
+  const response = await fetch(`${API_BASE_URL}/recomendar/vida`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(data),
@@ -49,7 +58,7 @@ export async function recomendarVida(data: VidaFormPayload) {
 }
 
 export async function recomendarVivienda(data: ViviendaFormPayload) {
-  const response = await fetch("http://localhost:8000/recomendar/vivienda", {  
+  const response = await fetch(`${API_BASE_URL}/recomendar/vivienda`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(data),
