@@ -7,7 +7,7 @@ import {
 } from "../Types/insurance_types";
 
 // 👇 Esto tomará la URL desde el entorno (ideal para Vercel)
-const API_BASE_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL;
 
 export async function recomendarSalud(data: SaludFormPayload) {
   const response = await fetch(`${API_BASE_URL}/recomendar/salud`, {
