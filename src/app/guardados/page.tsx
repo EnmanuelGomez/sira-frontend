@@ -5,6 +5,7 @@ import { supabase } from "@/app/lib/supabaseClient";
 import Header from "../components/Header";
 import styles from "./saved.module.css";
 import { useRouter } from "next/navigation";
+import ManualButton from "../components/ManualButton";
 
 interface Aseguradora {
   id: string;
@@ -35,6 +36,7 @@ export default function SeguroSelectorPage() {
   return (
     <div>
       <Header />
+      <ManualButton />
       <main className={styles.page}>
         <h2 className={styles.titulo}>Aseguradoras</h2>
         <div className={styles.container}>

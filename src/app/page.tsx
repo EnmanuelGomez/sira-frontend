@@ -3,6 +3,7 @@
 import { useEffect } from "react";
 import Image from "next/image";
 import "./styles/homePage.css"; 
+import ManualButton from "./components/ManualButton"; 
 import Footer from "./components/Footer";
 
 export default function HomePage() {
@@ -25,6 +26,7 @@ export default function HomePage() {
       </header>
 
       {/* Main content */}
+      <ManualButton />
       <main className="main">
         <h1 className="title">
           Sistema Inteligente de Recomendación de Aseguramiento

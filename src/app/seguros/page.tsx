@@ -4,12 +4,15 @@ import Image from "next/image";
 import Link from "next/link";
 import Header from "../components/Header"; 
 import styles from "./seguros.module.css";
+import ManualButton from "../components/ManualButton";
 
 export default function SeguroSelectorPage() {
   return (
 
     <div>
+      
     <Header />
+    <ManualButton />
     
     <main className={styles.page}>
       <h2 className={styles.titulo}>Selecciona la categoría de seguro</h2>

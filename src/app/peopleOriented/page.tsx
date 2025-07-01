@@ -2,11 +2,13 @@ import Link from "next/link";
 import Image from "next/image";
 import styles from '../styles/peopleOriented.module.css'; 
 import Header from "../components/Header";
+import ManualButton from "../components/ManualButton";
 
 const PeopleOrientedPage = () => {
   return (
     <>  
         <Header />
+        <ManualButton />
         <h2 className={styles.titulo}>Selecciona el tipo de seguro</h2>
 
     <div className={styles.container}>
