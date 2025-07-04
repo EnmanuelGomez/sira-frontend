@@ -5,15 +5,17 @@ export const guardarFormulario = async (
   formData: any,
   userId: string | null
 ) => {
-  const anonId =
-    typeof window !== "undefined"
-      ? localStorage.getItem("anon_id") || generarAnonId()
-      : null;
+  let anonId: string | null = null;
+
+  // Solo generar anon_id si NO hay userId
+  if (!userId && typeof window !== "undefined") {
+    anonId = localStorage.getItem("anon_id") || generarAnonId();
+  }
 
   const result = await supabase.from("form_submissions").insert([
     {
       form_type: formType,
-      user_id: userId || null,
+      user_id: userId,
       anonymous_id: anonId,
       was_authenticated: !!userId,
       raw_data: formData,
