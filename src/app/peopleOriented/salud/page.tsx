@@ -8,7 +8,7 @@ import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { calcularMontoPorFrecuencia } from "@/app/utils/calculosFinancieros";
 import { obtenerCatalogoURL } from "@/app/utils/obtenerCatalogoURL";
 import { validateHealthForm } from "@/app/utils/validacionesForms";
-import { HealthFormData } from "@/app/Models/FormData";
+import { HealthFormData } from "@/app/models/FormData";
 import { obtenerDetallePlan, PlanDetalle } from "@/app/api/Queries/getPlanDetalle";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";
@@ -140,7 +140,22 @@ const HealthFormPage = () => {
           <form onSubmit={handleSubmit}>
             
             {/* preguntas demográficas */}
-            <label className={styles.label}>Edad: {formData.edad || "Seleccionar"} </label>
+            <label className={styles.label}>
+              Seleccione el rango de edad:
+
+              <input
+                type="number"
+                name="edad"
+                min="18"
+                max="64"
+                step="1"
+                value={formData.edad}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
+
+            </label>
+
               <input
                 type="range"
                 name="edad"
@@ -150,7 +165,7 @@ const HealthFormPage = () => {
                 value={formData.edad}
                 onChange={handleChange}
                 className={styles.slider}
-            />
+              />
 
             {formErrors.edad && <p className={styles.errorText}>{formErrors.edad}</p>}
 
@@ -212,20 +227,34 @@ const HealthFormPage = () => {
               </select>
 
             {/* Prima */}
-            <label className={styles.label}> ¿Cuál es su presupuesto para pago de prima?: RD${" "}
-              <strong>{Number(formData.prima).toLocaleString("es-DO")}</strong>
-              <TooltipInfo text="La prima es el monto total que debes pagar al año por tu póliza de salud." />
-            </label>
+            <label className={styles.label}>
+              ¿Cuál es su presupuesto para pago de prima?: RD${" "}
+  
               <input
-                type="range"
+                type="number"
                 name="prima"
                 min="500"
                 max="150000"
                 step="500"
                 value={formData.prima}
                 onChange={handleChange}
-                className={styles.slider}
-              /> 
+                className={styles.inlineInput}
+              />
+
+                <TooltipInfo text="La prima es el monto total que debes pagar al año por tu póliza de salud." />
+              </label>
+
+                <input
+                  type="range"
+                  name="prima"
+                  min="500"
+                  max="150000"
+                  step="500"
+                  value={formData.prima}
+                  onChange={handleChange}
+                  className={styles.slider}
+              />
+
 
               {formErrors.prima && <p className={styles.errorText}>{formErrors.prima}</p>} 
 
@@ -383,7 +412,7 @@ const HealthFormPage = () => {
             )}
 
             {/* Principal preocupacion o interes */}
-            <label className={styles.label}>Principales preocupaciones:</label>
+            <label className={styles.label}>Principal preocupación:</label>
             <div className={styles.checkboxGroup}>
               {concernOptions.map((concern) => (
                 <label key={concern} className={styles.checkboxLabel}>

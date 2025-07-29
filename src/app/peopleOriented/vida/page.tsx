@@ -6,7 +6,7 @@ import { guardarFormulario } from "@/app/api/Controllers/logFormSubmission";
 import { procesarRecomendacionVida } from "@/app/api/Controllers/vidaController";
 import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { validateLifeForm } from "@/app/utils/validacionesForms";
-import { LifeFormData } from "@/app/Models/FormData";
+import { LifeFormData } from "@/app/models/FormData";
 import { obtenerDetallePlan, PlanDetalle } from "@/app/api/Queries/getPlanDetalle";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";
@@ -119,17 +119,32 @@ const LifeFormPage = () => {
           <h2 className={styles.formTitle}>Formulario de Seguro de Vida</h2>
           <form onSubmit={handleSubmit}>
 
-            <label className={styles.label}>Edad: {formData.edad || "Seleccionar"}</label>
+            <label className={styles.label}>
+              Seleccione el rango de edad:
+
+              <input
+                type="number"
+                name="edad"
+                min="18"
+                max="70"
+                step="1"
+                value={formData.edad}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
+
+            </label>
+
               <input
                 type="range"
                 name="edad"
                 min="18"
-                max="64"
+                max="70"
                 step="1"
                 value={formData.edad}
                 onChange={handleChange}
                 className={styles.slider}
-            />
+              />
 
             {formErrors.edad && <p className={styles.errorText}>{formErrors.edad}</p>}
 
@@ -194,25 +209,50 @@ const LifeFormPage = () => {
 
             {formErrors.tiempo_posesion && <p className={styles.errorText}>{formErrors.tiempo_posesion}</p>}
 
-            <label className={styles.label}> ¿Cuál es su presupuesto mensual para pago de prima?: RD${" "}
-              <strong>{Number(formData.prima).toLocaleString("es-DO")}</strong>
-            </label>
+            {/* Prima */}
+            <label className={styles.label}>
+              ¿Cuál es su presupuesto para pago de prima?: RD${" "}
+  
               <input
-                type="range"
+                type="number"
                 name="prima"
                 min="500"
                 max="150000"
                 step="500"
                 value={formData.prima}
                 onChange={handleChange}
-                className={styles.slider}
+                className={styles.inlineInput}
+              />
+
+              </label>
+
+                <input
+                  type="range"
+                  name="prima"
+                  min="500"
+                  max="150000"
+                  step="500"
+                  value={formData.prima}
+                  onChange={handleChange}
+                  className={styles.slider}
               />
 
               {formErrors.prima && <p className={styles.errorText}>{formErrors.prima}</p>}
 
             {/* Monto para beneficiario */}
             <label className={styles.label}>Monto asegurado: RD${" "}
-              <strong>{Number(formData.monto_asegurado).toLocaleString("es-DO")}</strong>
+
+              <input
+                type="number"
+                name="monto_asegurado"
+                min="50000"
+                max="10000000"
+                step="10000"
+                value={formData.monto_asegurado}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
+
             </label>
             <input
               type="range"
@@ -288,7 +328,7 @@ const LifeFormPage = () => {
             </select>
 
             {/* Factores importantes */}
-            <label className={styles.label}>Principales preocupaciones:</label>
+            <label className={styles.label}>Principal preocupación:</label>
             <div className={styles.checkboxGroup}>
               {concernOptions.map((concern) => (
                 <label key={concern} className={styles.checkboxLabel}>

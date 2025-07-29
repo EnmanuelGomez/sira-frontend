@@ -7,7 +7,7 @@ import { useEffect } from "react";
 import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { procesarRecomendacionVivienda } from "@/app/api/Controllers/viviendaController";
 import { obtenerDetallePlanObj, PlanDetalle } from "@/app/api/Queries/getPlanDetalleObj";
-import { HomeInsuranceFormData } from "@/app/Models/FormData";
+import { HomeInsuranceFormData } from "@/app/models/FormData";
 import { validateHousingForm } from "@/app/utils/validacionesForms";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";
@@ -119,7 +119,22 @@ const HousingFormPage = () => {
           <h2 className={styles.formTitle}>Formulario de Seguro de Viviendas</h2>
           <form onSubmit={handleSubmit}>
 
-            <label className={styles.label}>Edad: {formData.edad || "Seleccionar"}</label>
+            <label className={styles.label}>
+              Seleccione el rango de edad:
+
+              <input
+                type="number"
+                name="edad"
+                min="18"
+                max="100"
+                step="1"
+                value={formData.edad}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
+
+            </label>
+
               <input
                 type="range"
                 name="edad"
@@ -129,7 +144,7 @@ const HousingFormPage = () => {
                 value={formData.edad}
                 onChange={handleChange}
                 className={styles.slider}
-            />
+              />
 
             <label className={styles.label}>Sexo:</label>
               <select
@@ -157,9 +172,20 @@ const HousingFormPage = () => {
               </select>
             
             {/* Monto máximo de prima */}
-            <label className={styles.label}>¿Cuál es el monto máximo de prima que puede pagar?: RD${" "}
-              <strong>{Number(formData.prima).toLocaleString("es-DO")}</strong>
+            <label className={styles.label}>
+                ¿Cuánto estaría dispuesto a pagar por la prima?: RD${" "}
+              <input
+                type="number"
+                name="prima"
+                min="500"
+                max="3000000"
+                step="500"
+                value={formData.prima}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
             </label>
+
               <input
                 type="range"
                 name="prima"
@@ -174,35 +200,59 @@ const HousingFormPage = () => {
               {formErrors.prima && <p className={styles.errorText}>{formErrors.prima}</p>}
 
             {/* Valor de la propiedad */}
-            <label className={styles.label}>¿Cuál es el valor estimado de la propiedad?  RD${" "}
-              <strong>{Number(formData.valor_aproximado).toLocaleString("es-DO")}</strong></label>
-            <input
-              type="range"
-              name="valor_aproximado"
-              min="500000"
-              max="30000000"
-              step="100000"
-              value={formData.valor_aproximado}
-              onChange={handleChange}
-              className={styles.slider}
-            />
+            <label className={styles.label}>
+                ¿Cuál es el valor estimado de la propiedad? RD${" "}
+              <input
+                type="number"
+                name="valor_aproximado"
+                min="500000"
+                max="30000000"
+                step="100000"
+                value={formData.valor_aproximado}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
+            </label>
+
+              <input
+                type="range"
+                name="valor_aproximado"
+                min="500000"
+                max="30000000"
+                step="100000"
+                value={formData.valor_aproximado}
+                onChange={handleChange}
+                className={styles.slider}
+              />
+
 
             {formErrors.valor_aproximado && <p className={styles.errorText}>{formErrors.valor_aproximado}</p>}
 
             {/* Monto asegurado */}
-            <label className={styles.label}>Monto asegurado: RD${" "}
-              <strong>{Number(formData.monto_asegurado).toLocaleString("es-DO")}</strong>
+            <label className={styles.label}>
+                Monto asegurado: RD${" "}
+              <input
+                type="number"
+                name="monto_asegurado"
+                min="50000"
+                max="3000000"
+                step="10000"
+                value={formData.monto_asegurado}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
             </label>
-            <input
-              type="range"
-              name="monto_asegurado"
-              min="50000"
-              max="3000000"
-              step="10000"
-              value={formData.monto_asegurado}
-              onChange={handleChange}
-              className={styles.slider}
-            />
+
+              <input
+                type="range"
+                name="monto_asegurado"
+                min="50000"
+                max="3000000"
+                step="10000"
+                value={formData.monto_asegurado}
+                onChange={handleChange}
+                className={styles.slider}
+              />
 
             {formErrors.monto_asegurado && <p className={styles.errorText}>{formErrors.monto_asegurado}</p>}
 
@@ -274,7 +324,7 @@ const HousingFormPage = () => {
             </select>
 
             {/* Factores importantes */}
-            <label className={styles.label}>Principales preocupaciones:</label>
+            <label className={styles.label}>Principal preocupación:</label>
             <div className={styles.checkboxGroup}>
               {concernOptions.map((concern) => (
                 <label key={concern} className={styles.checkboxLabel}>

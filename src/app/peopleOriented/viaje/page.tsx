@@ -6,7 +6,7 @@ import { guardarFormulario } from "@/app/api/Controllers/logFormSubmission";
 import { procesarRecomendacionViaje } from "@/app/api/Controllers/viajeController";
 import { ensureAnonymousId } from "@/app/utils/initAnonymous";
 import { validateTravelForm } from "@/app/utils/validacionesForms";
-import { TravelFormData } from "@/app/Models/FormData";
+import { TravelFormData } from "@/app/models/FormData";
 import { obtenerDetallePlan, PlanDetalle } from "@/app/api/Queries/getPlanDetalle";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";
@@ -120,7 +120,22 @@ const TravelFormPage = () => {
           <form onSubmit={handleSubmit}>
 
             {/* Edad */}
-            <label className={styles.label}>Edad: {formData.edad || "Seleccionar"}</label>
+            <label className={styles.label}>
+              Seleccione el rango de edad:
+
+              <input
+                type="number"
+                name="edad"
+                min="18"
+                max="64"
+                step="1"
+                value={formData.edad}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
+
+            </label>
+
               <input
                 type="range"
                 name="edad"
@@ -130,7 +145,7 @@ const TravelFormPage = () => {
                 value={formData.edad}
                 onChange={handleChange}
                 className={styles.slider}
-            />
+              />
 
             {formErrors.edad && <p className={styles.errorText}>{formErrors.edad}</p>}
 
@@ -301,7 +316,7 @@ const TravelFormPage = () => {
               </select>
 
             {/* Factores importantes */}
-            <label className={styles.label}>Principales preocupaciones:</label>
+            <label className={styles.label}>Principal preocupación:</label>
             <div className={styles.checkboxGroup}>
               {concernOptions.map((concern) => (
                 <label key={concern} className={styles.checkboxLabel}>

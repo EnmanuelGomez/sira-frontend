@@ -10,7 +10,7 @@ import { obtenerDetallePlanObj, PlanDetalle } from "@/app/api/Queries/getPlanDet
 import { calcularMontoPorFrecuencia } from "@/app/utils/calculosFinancieros";
 import { generarAnios } from "@/app/utils/generarAnios";
 import { calcularPrimaConDeducible } from "@/app/utils/ajustesDeducible";
-import { VehicleFormData } from "@/app/Models/FormData";
+import { VehicleFormData } from "@/app/models/FormData";
 import { validateVehicleForm } from "@/app/utils/validacionesForms";
 import Header from "@/app/components/Header";
 import Loader from "@/app/components/Loader";
@@ -139,7 +139,22 @@ const VehicleFormPage = () => {
           <form onSubmit={handleSubmit}>
 
             {/* preguntas demográficas */}
-            <label className={styles.label}>Edad: {formData.edad || "Seleccionar"}</label>
+            <label className={styles.label}>
+              Seleccione el rango de edad:
+
+              <input
+                type="number"
+                name="edad"
+                min="18"
+                max="100"
+                step="1"
+                value={formData.edad}
+                onChange={handleChange}
+                className={styles.inlineInput}
+              />
+
+            </label>
+
               <input
                 type="range"
                 name="edad"
@@ -149,7 +164,7 @@ const VehicleFormPage = () => {
                 value={formData.edad}
                 onChange={handleChange}
                 className={styles.slider}
-            />
+              />
 
             <label className={styles.label}>Sexo:</label>
               <select
@@ -229,19 +244,32 @@ const VehicleFormPage = () => {
               {formErrors.anio_fabricacion && <p className={styles.errorText}>{formErrors.anio_fabricacion}</p>}
 
             {/* Monto asegurado */}
-            <label className={styles.label}>Monto asegurado: RD${" "}
-              <strong>{Number(formData.monto_asegurado).toLocaleString("es-DO")}</strong>
-            </label>
-            <input
-              type="range"
-              name="monto_asegurado"
-              min="50000"
-              max="3000000"
-              step="10000"
-              value={formData.monto_asegurado}
-              onChange={handleChange}
-              className={styles.slider}
-            />
+            
+
+            <label className={styles.label}>
+  ¿Cuál es el monto asegurado deseado?: RD${" "}
+  <input
+    type="number"
+    name="monto_asegurado"
+    min="50000"
+    max="3000000"
+    step="10000"
+    value={formData.monto_asegurado}
+    onChange={handleChange}
+    className={styles.inlineInput}
+  />
+</label>
+
+<input
+  type="range"
+  name="monto_asegurado"
+  min="50000"
+  max="3000000"
+  step="10000"
+  value={formData.monto_asegurado}
+  onChange={handleChange}
+  className={styles.slider}
+/>
 
             {formErrors.monto_asegurado && <p className={styles.errorText}>{formErrors.monto_asegurado}</p>}
 
@@ -291,10 +319,21 @@ const VehicleFormPage = () => {
               </select>
 
             {/* Prima */}
-            <label className={styles.label}>¿Cuánto estaría dispuesto a pagar por la prima?: RD${" "}
-              <strong>{Number(formData.prima).toLocaleString("es-DO")}</strong>
-              <TooltipInfo text="La prima es el monto anual que pagas para mantener tu seguro de vehículo activo, calculado según el tipo de cobertura, marca, uso y perfil del conductor." />
+            <label className={styles.label}>
+              ¿Cuánto estaría dispuesto a pagar por la prima?: RD${" "}
+            <input
+              type="number"
+              name="prima"
+              min="500"
+              max="1000000"
+              step="500"
+              value={formData.prima}
+              onChange={handleChange}
+              className={styles.inlineInput}
+            />
+              <TooltipInfo text="La prima es el monto anual que pagas para mantener tu seguro activo, calculado según el tipo de cobertura, riesgos cubiertos y perfil del solicitante." />
             </label>
+
               <input
                 type="range"
                 name="prima"
@@ -473,7 +512,7 @@ const VehicleFormPage = () => {
             </select>
 
             {/* Factores importantes */}
-            <label className={styles.label}>Principales preocupaciones:</label>
+            <label className={styles.label}>Principal preocupación:</label>
             <div className={styles.checkboxGroup}>
               {concernOptions.map((concern) => (
                 <label key={concern} className={styles.checkboxLabel}>
